@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <ID>1</ID>
+  <Title>Не срабатывает кнопка добавить GIFT</Title>
+  <Step_Description>На главной странице сайта в мини-блоке товара под его фотографией навести курсор на иконку GIFT и нажать лкм</Step_Description>
+  <Expected_Result>Добавление подарка в корзину/Открытие дополнительного всплывающего окно с выбором подарка и последующим добавлением его в корзину</Expected_Result>
+  <Actual>При нажатии ЛКМ на иконку добавить GIFT ничего не происходит</Actual>
+  <Bug_Severity>Major</Bug_Severity>
+</root>
